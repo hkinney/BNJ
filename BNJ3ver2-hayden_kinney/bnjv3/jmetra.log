@@ -1,0 +1,122 @@
+2004-07-12 06:55:04,156 INFO [main] - output directory:: .\metrics
+2004-07-12 06:55:04,187 INFO [main] - Skipped directory <.\src\edu\CVS>
+2004-07-12 06:55:04,187 INFO [main] - Skipped directory <.\src\edu\ksu\cis\bnj\CVS>
+2004-07-12 06:55:04,343 INFO [main] - Skipped directory <.\src\edu\ksu\cis\bnj\gui\CVS>
+2004-07-12 06:55:04,375 INFO [main] - Skipped directory <.\src\edu\ksu\cis\bnj\gui\rendering\CVS>
+2004-07-12 06:55:04,390 ERROR [main] - Problem doing linecount for file C:\eclipse\workspace\bnjv3\.\src\edu\ksu\cis\bnj\gui\rendering\RenderCPF.java
+2004-07-12 06:55:04,390 ERROR [main] - Parser encountered internal lexical problems. Parsing error details:
+Lexical error at line 214, column 48.  Encountered: <EOF> after : ""
+2004-07-12 06:55:04,421 INFO [main] - Parsed package <ksu.cis.bnj.gui.rendering>
+2004-07-12 06:55:04,437 INFO [main] - Skipped directory <.\src\edu\ksu\cis\bnj\gui\tools\CVS>
+2004-07-12 06:55:04,468 INFO [main] - Parsed package <ksu.cis.bnj.gui.tools>
+2004-07-12 06:55:04,468 INFO [main] - Parsed package <ksu.cis.bnj.gui>
+2004-07-12 06:55:04,468 ERROR [main] - Problem doing linecount for file C:\eclipse\workspace\bnjv3\.\src\edu\ksu\cis\bnj\ver3\core\BeliefNetwork.java
+2004-07-12 06:55:04,468 ERROR [main] - Parser encountered internal lexical problems. Parsing error details:
+Lexical error at line 255, column 41.  Encountered: <EOF> after : ""
+2004-07-12 06:55:04,484 INFO [main] - Skipped directory <.\src\edu\ksu\cis\bnj\ver3\core\CVS>
+2004-07-12 06:55:04,500 INFO [main] - Skipped directory <.\src\edu\ksu\cis\bnj\ver3\core\values\CVS>
+2004-07-12 06:55:04,515 ERROR [main] - Problem doing linecount for file C:\eclipse\workspace\bnjv3\.\src\edu\ksu\cis\bnj\ver3\core\values\ValueRational.java
+2004-07-12 06:55:04,515 ERROR [main] - Parser encountered internal lexical problems. Parsing error details:
+Lexical error at line 179, column 59.  Encountered: <EOF> after : ""
+2004-07-12 06:55:04,531 INFO [main] - Skipped directory <.\src\edu\ksu\cis\bnj\ver3\core\values\zencas\CVS>
+2004-07-12 06:55:04,546 INFO [main] - Parsed package <ksu.cis.bnj.ver3.core.values.zencas>
+2004-07-12 06:55:04,546 INFO [main] - Parsed package <ksu.cis.bnj.ver3.core.values>
+2004-07-12 06:55:04,546 INFO [main] - Parsed package <ksu.cis.bnj.ver3.core>
+2004-07-12 06:55:04,546 INFO [main] - Skipped directory <.\src\edu\ksu\cis\bnj\ver3\CVS>
+2004-07-12 06:55:04,562 INFO [main] - Skipped directory <.\src\edu\ksu\cis\bnj\ver3\drivers\CVS>
+2004-07-12 06:55:04,562 INFO [main] - Parsed package <ksu.cis.bnj.ver3.drivers>
+2004-07-12 06:55:04,562 INFO [main] - Skipped directory <.\src\edu\ksu\cis\bnj\ver3\inference\CVS>
+2004-07-12 06:55:04,578 ERROR [main] - Problem doing linecount for file C:\eclipse\workspace\bnjv3\.\src\edu\ksu\cis\bnj\ver3\inference\exact\Clique.java
+2004-07-12 06:55:04,578 ERROR [main] - Parser encountered internal lexical problems. Parsing error details:
+Lexical error at line 352, column 18.  Encountered: <EOF> after : ""
+2004-07-12 06:55:04,593 ERROR [main] - Problem doing linecount for file C:\eclipse\workspace\bnjv3\.\src\edu\ksu\cis\bnj\ver3\inference\exact\CliqueTree.java
+2004-07-12 06:55:04,593 ERROR [main] - Parser encountered internal lexical problems. Parsing error details:
+Lexical error at line 254, column 10.  Encountered: <EOF> after : ""
+2004-07-12 06:55:04,593 INFO [main] - Skipped directory <.\src\edu\ksu\cis\bnj\ver3\inference\exact\CVS>
+2004-07-12 06:55:04,609 INFO [main] - Parsed package <ksu.cis.bnj.ver3.inference.exact>
+2004-07-12 06:55:04,609 INFO [main] - Parsed package <ksu.cis.bnj.ver3.inference>
+2004-07-12 06:55:04,609 INFO [main] - Skipped directory <.\src\edu\ksu\cis\bnj\ver3\streams\CVS>
+2004-07-12 06:55:04,625 INFO [main] - Skipped directory <.\src\edu\ksu\cis\bnj\ver3\streams\xmlbif\CVS>
+2004-07-12 06:55:04,625 INFO [main] - Parsed package <ksu.cis.bnj.ver3.streams.xmlbif>
+2004-07-12 06:55:04,625 INFO [main] - Parsed package <ksu.cis.bnj.ver3.streams>
+2004-07-12 06:55:04,625 INFO [main] - Parsed package <ksu.cis.bnj.ver3>
+2004-07-12 06:55:04,625 INFO [main] - Parsed package <ksu.cis.bnj>
+2004-07-12 06:55:04,625 INFO [main] - Skipped directory <.\src\edu\ksu\cis\CVS>
+2004-07-12 06:55:04,625 INFO [main] - Skipped directory <.\src\edu\ksu\cis\util\CVS>
+2004-07-12 06:55:04,625 INFO [main] - Skipped directory <.\src\edu\ksu\cis\util\driver\CVS>
+2004-07-12 06:55:04,640 INFO [main] - Parsed package <ksu.cis.util.driver>
+2004-07-12 06:55:04,656 INFO [main] - Skipped directory <.\src\edu\ksu\cis\util\graph\algorithms\CVS>
+2004-07-12 06:55:04,671 ERROR [main] - Problem doing linecount for file C:\eclipse\workspace\bnjv3\.\src\edu\ksu\cis\util\graph\algorithms\FillIn.java
+2004-07-12 06:55:04,671 ERROR [main] - Parser encountered internal lexical problems. Parsing error details:
+Lexical error at line 117, column 26.  Encountered: <EOF> after : ""
+2004-07-12 06:55:04,671 INFO [main] - Parsed package <ksu.cis.util.graph.algorithms>
+2004-07-12 06:55:04,671 INFO [main] - Skipped directory <.\src\edu\ksu\cis\util\graph\core\CVS>
+2004-07-12 06:55:04,687 ERROR [main] - Problem doing linecount for file C:\eclipse\workspace\bnjv3\.\src\edu\ksu\cis\util\graph\core\Graph.java
+2004-07-12 06:55:04,687 ERROR [main] - Parser encountered internal lexical problems. Parsing error details:
+Lexical error at line 489, column 2.  Encountered: <EOF> after : ""
+2004-07-12 06:55:04,703 ERROR [main] - Problem doing linecount for file C:\eclipse\workspace\bnjv3\.\src\edu\ksu\cis\util\graph\core\GraphEntry.java
+2004-07-12 06:55:04,703 ERROR [main] - Parser encountered internal lexical problems. Parsing error details:
+Lexical error at line 352, column 2.  Encountered: <EOF> after : ""
+2004-07-12 06:55:04,703 INFO [main] - Parsed package <ksu.cis.util.graph.core>
+2004-07-12 06:55:04,703 INFO [main] - Skipped directory <.\src\edu\ksu\cis\util\graph\CVS>
+2004-07-12 06:55:04,703 INFO [main] - Skipped directory <.\src\edu\ksu\cis\util\graph\visitors\CVS>
+2004-07-12 06:55:04,718 INFO [main] - Parsed package <ksu.cis.util.graph.visitors>
+2004-07-12 06:55:04,718 INFO [main] - Skipped directory <.\src\edu\ksu\cis\util\graph\visualization\CVS>
+2004-07-12 06:55:04,734 INFO [main] - Skipped directory <.\src\edu\ksu\cis\util\graph\visualization\operators\CVS>
+2004-07-12 06:55:04,734 INFO [main] - Parsed package <ksu.cis.util.graph.visualization.operators>
+2004-07-12 06:55:04,734 INFO [main] - Parsed package <ksu.cis.util.graph.visualization>
+2004-07-12 06:55:04,734 INFO [main] - Parsed package <ksu.cis.util.graph>
+2004-07-12 06:55:04,734 INFO [main] - Parsed package <ksu.cis.util>
+2004-07-12 06:55:04,734 INFO [main] - Parsed package <ksu.cis>
+2004-07-12 06:55:04,734 INFO [main] - Skipped directory <.\src\edu\ksu\CVS>
+2004-07-12 06:55:04,734 INFO [main] - Parsed package <ksu>
+2004-07-12 06:55:04,734 INFO [main] - Generating Project Metrics File <.\metrics\2004.07.12.065504metrics.xml>
+2004-07-12 06:55:05,250 INFO [main] - no configuration file <jmetra.xml> found. use defaults.
+2004-07-12 06:55:05,328 INFO [main] - Processing Build with label <2004.07.12.065504metrics.xml>
+2004-07-12 06:55:05,328 INFO [main] - inserting metrics for build <2004.07.12.065504>, package <ksu> to aggregation
+2004-07-12 06:55:05,343 INFO [main] - inserting metrics for build <2004.07.12.065504>, package <ksu.cis> to aggregation
+2004-07-12 06:55:05,343 INFO [main] - inserting metrics for build <2004.07.12.065504>, package <ksu.cis.bnj> to aggregation
+2004-07-12 06:55:05,375 INFO [main] - inserting metrics for build <2004.07.12.065504>, package <ksu.cis.bnj.gui> to aggregation
+2004-07-12 06:55:05,406 INFO [main] - inserting metrics for build <2004.07.12.065504>, package <ksu.cis.bnj.gui.rendering> to aggregation
+2004-07-12 06:55:05,453 INFO [main] - inserting metrics for build <2004.07.12.065504>, package <ksu.cis.bnj.gui.tools> to aggregation
+2004-07-12 06:55:05,453 INFO [main] - inserting metrics for build <2004.07.12.065504>, package <ksu.cis.bnj.ver3> to aggregation
+2004-07-12 06:55:05,500 INFO [main] - inserting metrics for build <2004.07.12.065504>, package <ksu.cis.bnj.ver3.core> to aggregation
+2004-07-12 06:55:05,562 INFO [main] - inserting metrics for build <2004.07.12.065504>, package <ksu.cis.bnj.ver3.core.values> to aggregation
+2004-07-12 06:55:05,625 INFO [main] - inserting metrics for build <2004.07.12.065504>, package <ksu.cis.bnj.ver3.core.values.zencas> to aggregation
+2004-07-12 06:55:05,656 INFO [main] - inserting metrics for build <2004.07.12.065504>, package <ksu.cis.bnj.ver3.drivers> to aggregation
+2004-07-12 06:55:05,671 INFO [main] - inserting metrics for build <2004.07.12.065504>, package <ksu.cis.bnj.ver3.inference> to aggregation
+2004-07-12 06:55:05,687 INFO [main] - inserting metrics for build <2004.07.12.065504>, package <ksu.cis.bnj.ver3.inference.exact> to aggregation
+2004-07-12 06:55:05,718 INFO [main] - inserting metrics for build <2004.07.12.065504>, package <ksu.cis.bnj.ver3.streams> to aggregation
+2004-07-12 06:55:05,734 INFO [main] - inserting metrics for build <2004.07.12.065504>, package <ksu.cis.bnj.ver3.streams.xmlbif> to aggregation
+2004-07-12 06:55:05,734 INFO [main] - inserting metrics for build <2004.07.12.065504>, package <ksu.cis.util> to aggregation
+2004-07-12 06:55:05,750 INFO [main] - inserting metrics for build <2004.07.12.065504>, package <ksu.cis.util.driver> to aggregation
+2004-07-12 06:55:05,750 INFO [main] - inserting metrics for build <2004.07.12.065504>, package <ksu.cis.util.graph> to aggregation
+2004-07-12 06:55:05,812 INFO [main] - inserting metrics for build <2004.07.12.065504>, package <ksu.cis.util.graph.algorithms> to aggregation
+2004-07-12 06:55:05,828 INFO [main] - inserting metrics for build <2004.07.12.065504>, package <ksu.cis.util.graph.core> to aggregation
+2004-07-12 06:55:05,875 INFO [main] - inserting metrics for build <2004.07.12.065504>, package <ksu.cis.util.graph.visitors> to aggregation
+2004-07-12 06:55:05,890 INFO [main] - inserting metrics for build <2004.07.12.065504>, package <ksu.cis.util.graph.visualization> to aggregation
+2004-07-12 06:55:05,937 INFO [main] - inserting metrics for build <2004.07.12.065504>, package <ksu.cis.util.graph.visualization.operators> to aggregation
+2004-07-12 06:55:06,296 INFO [main] - loading from root .\metrics\aggrbuild
+2004-07-12 06:55:07,046 INFO [main] - generating jmetradoc for <ksu.cis.bnj.gui.rendering>
+2004-07-12 06:55:07,562 INFO [main] - generating jmetradoc for <ksu.cis.bnj.gui.tools>
+2004-07-12 06:55:07,828 INFO [main] - generating jmetradoc for <ksu.cis.bnj.gui>
+2004-07-12 06:55:08,343 INFO [main] - generating jmetradoc for <ksu.cis.bnj.ver3.core.values.zencas>
+2004-07-12 06:55:08,828 INFO [main] - generating jmetradoc for <ksu.cis.bnj.ver3.core.values>
+2004-07-12 06:55:09,234 INFO [main] - generating jmetradoc for <ksu.cis.bnj.ver3.core>
+2004-07-12 06:55:09,437 INFO [main] - generating jmetradoc for <ksu.cis.bnj.ver3.drivers>
+2004-07-12 06:55:09,609 INFO [main] - generating jmetradoc for <ksu.cis.bnj.ver3.inference.exact>
+2004-07-12 06:55:09,734 INFO [main] - generating jmetradoc for <ksu.cis.bnj.ver3.inference>
+2004-07-12 06:55:09,875 INFO [main] - generating jmetradoc for <ksu.cis.bnj.ver3.streams.xmlbif>
+2004-07-12 06:55:10,203 INFO [main] - generating jmetradoc for <ksu.cis.bnj.ver3.streams>
+2004-07-12 06:55:10,265 INFO [main] - generating jmetradoc for <ksu.cis.bnj.ver3>
+2004-07-12 06:55:10,359 INFO [main] - generating jmetradoc for <ksu.cis.bnj>
+2004-07-12 06:55:10,468 INFO [main] - generating jmetradoc for <ksu.cis.util.driver>
+2004-07-12 06:55:10,765 INFO [main] - generating jmetradoc for <ksu.cis.util.graph.algorithms>
+2004-07-12 06:55:10,921 INFO [main] - generating jmetradoc for <ksu.cis.util.graph.core>
+2004-07-12 06:55:11,156 INFO [main] - generating jmetradoc for <ksu.cis.util.graph.visitors>
+2004-07-12 06:55:11,500 INFO [main] - generating jmetradoc for <ksu.cis.util.graph.visualization.operators>
+2004-07-12 06:55:11,687 INFO [main] - generating jmetradoc for <ksu.cis.util.graph.visualization>
+2004-07-12 06:55:11,781 INFO [main] - generating jmetradoc for <ksu.cis.util.graph>
+2004-07-12 06:55:11,843 INFO [main] - generating jmetradoc for <ksu.cis.util>
+2004-07-12 06:55:11,921 INFO [main] - generating jmetradoc for <ksu.cis>
+2004-07-12 06:55:12,015 INFO [main] - generating jmetradoc for <ksu>
